@@ -2,17 +2,17 @@
 
 #### ❖ About Me
 
-#Naitik Lodha
+# Naitik Lodha
 Hi, I'm Naitik Lodha, a student at NMIMS MPSTME Mumbai studying Computer Science. I am passionate about web development and enjoy using my skills to build innovative and user-friendly applications. In addition to web development, I am also interested in AI/ML and have experience with programming languages such as Java, Python, HTML, C, CSS, JavaScript, React, and Flask.
 
-##Projects
+## Projects
 [Project Name](Project URL): A brief description of the project
 [Project Name](Project URL): A brief description of the project
-##Contact
+## Contact
 Email: [Naitik's Email]
 LinkedIn: [Naitik's LinkedIn]
 Personal website: [Naitik's Personal Website]
-##Getting started
+## Getting started
 Fork this repository
 Clone your fork: git clone https://github.com/[your-username]/[repository-name].git
 Navigate to the newly cloned directory: cd [repository-name]

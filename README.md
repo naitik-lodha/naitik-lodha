@@ -1,37 +1,29 @@
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Naitik Lodha</h1>
+<h3 align="center">A passionate frontend developer and student from India</h3>
 
-I'm a 17-year-old student and developer with a passion for full-stack development. Currently, I am exploring a wide array of technologies including React, Tailwind CSS, and diving into the Next.js framework. My interests extend to the MERN stack, and I'm curious about exploring the realms of Machine Learning, Data Structures and Algorithms (DSA), and mobile app development.
+- 🌱 I’m currently learning **Flutter and Data Structures and Algorithms**
 
-I enjoy the creative process of building applications and finding efficient solutions to problems. As I continue to learn and grow, I'm excited about delving deeper into various tech stacks and learning from hands-on experiences.
+- 👨‍💻 All of my projects are available at [naitiklodha.tech](naitiklodha.tech)
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://naitiklodha.tech/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/naitiklodha)
+- 📝 I write articles on [blog.naitiklodha.tech](blog.naitiklodha.tech)
 
-## 🛠 Skills
+- 💬 Ask me about **React, HTML5,CSS3**
 
-I have experience and proficiency in the following technologies and languages:
+- 📫 How to reach me **lodhanaitik07@gmail.com**
 
-- **JavaScript:** Comfortable with ES6+ syntax, including async/await, arrow functions, and modern JavaScript features.
-- **HTML & CSS:** Strong foundation in building structured, semantic HTML and styling with CSS. Familiar with CSS frameworks like Bootstrap and Tailwind CSS.
-- **React:** Skilled in building interactive user interfaces and single-page applications using React library.
-- **Node.js:** Familiar with server-side JavaScript and creating scalable applications using Node.js.
-- **Express.js:** Proficient in building RESTful APIs and web applications with Express.js framework.
-- **MongoDB:** Knowledgeable in NoSQL databases and working with MongoDB for data storage and retrieval.
-- **MERN Stack:** Understanding and working knowledge of MongoDB, Express.js, React, and Node.js stack for full-stack development.
-- **Data Structures & Algorithms (DSA):** Exploring various algorithms, data structures, and their implementations in solving problems.
-- **Mobile App Development:** Curious and eager to learn mobile app development using frameworks like React Native or Flutter.
-- **Version Control:** Proficient in using Git for version control, collaboration, and managing code repositories.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/naitiklodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naitiklodha" height="30" width="40" /></a>
+<a href="https://instagram.com/naitechh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naitechh" height="30" width="40" /></a>
+<a href="https://hashnode.com/naitiklodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="naitiklodha" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/naitik_lodha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naitik_lodha" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-Continuously learning and exploring new technologies to enhance my skill set and build innovative solutions.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naitik-lodha&show_icons=true&locale=en&layout=compact" alt="naitik-lodha" /></p>
 
-## Other Common GitHub Profile Sections
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naitik-lodha&show_icons=true&locale=en" alt="naitik-lodha" /></p>
 
-🧠 **I'm currently learning:** Data Structures and Algorithms to strengthen problem-solving skills and enhance my understanding of efficient coding practices.
-
-📫 **How to reach me:** Feel free to contact me at lodhanaitik07@gmail.com
-
-😄 **Pronouns:** He/Him
-
-⚡️ **Fun fact:** I find joy in cycling through scenic routes and diving into finance-related literature. Exploring various terrains on a bike and delving into books about finance are my go-to ways to unwind and expand my horizons.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naitik-lodha&" alt="naitik-lodha" /></p>
